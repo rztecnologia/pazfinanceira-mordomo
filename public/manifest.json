@@ -1,0 +1,25 @@
+{
+  "name": "Mordomo Fiel",
+  "short_name": "Mordomo",
+  "description": "Seja um Mordomo Fiel assumindo o controle da sua vida financeira com o mais moderno aplicativo de gestão financeira pessoal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#4ECDC4",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://rtqfkvytdprwoqdzkweh.supabase.co/storage/v1/object/public/uploads/logos/1755809337161-hmu8jdaphrl.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://rtqfkvytdprwoqdzkweh.supabase.co/storage/v1/object/public/uploads/logos/1755809337161-hmu8jdaphrl.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

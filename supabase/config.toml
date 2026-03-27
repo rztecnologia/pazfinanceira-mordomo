@@ -1,0 +1,4 @@
+# Project ID será configurado dinamicamente no GitHub Actions
+
+[functions.stripe-webhook]
+verify_jwt = false
